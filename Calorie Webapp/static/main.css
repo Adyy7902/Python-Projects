@@ -1,0 +1,39 @@
+h2 {
+    color: Black;
+    text-align: center;
+    font-size: 50px;
+}
+
+input[type=text] {
+    background-color: GhostWhite;
+    width:100%;
+    padding: 2px 2px;
+    margin: 5px 0;
+}
+
+input[type=submit]{
+    background-color: YellowGreen;
+    color: White;
+    padding: 12px 12px;
+    border: none;
+    border-radius: 20px;
+    margin: 0 auto;
+    display: block;
+}
+
+body {
+    background-color: GhostWhite;
+    color: Black;
+    padding: 20px;
+}
+
+h3 {
+    color: Black;
+    text-align: center;
+    font-size: 16px;
+}
+
+.required {
+    border-color: red;
+    color: red;
+}
