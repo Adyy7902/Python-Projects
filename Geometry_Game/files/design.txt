@@ -1,0 +1,8 @@
+Title - Geometry Game
+Description - This is a small fun game created using turtle where the user has to guess a point and check whether the user-guessed point lies inside the coordinates of the randomly generated rectangle or not.
+Objects - Rectangle(x,y)
+          Point(x,y)
+          GuiRectangle(Rectangle):
+            draw()
+          GuiPoint(Point):
+            draw()
